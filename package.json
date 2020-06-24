@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "hello",
+  "cordova": {
+    "id": "cordova-plugin-hello",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Swpanil Nehare",
+  "license": "ISC"
+}
